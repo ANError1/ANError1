@@ -4,6 +4,4 @@ Hello, I’m ANError! You can also call me NullError, But I still prefer ANError
 
 I’m a busy student, but I’m active on weekends:)
 
-I enjoy developing Minecraft mods, especially those focused on performance optimization
-
 I play Minecraft. My Minecraft username is the same as my GitHub username
