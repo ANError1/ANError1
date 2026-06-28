@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+「The naive dream has been shattered, so I must wake up now?」
+
 Hello, I’m ANError! You can also call me NullError, But I still prefer ANError
 
 I’m a busy student, but I’m active on weekends:)
